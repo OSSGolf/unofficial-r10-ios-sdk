@@ -3,6 +3,8 @@
 A native Swift SDK for connecting to the R10 launch monitor over
 Bluetooth Low Energy. Pure Swift, no first-party app required.
 
+Part of [OSSGolf](https://ossgolf.com), open source golf projects.
+
 > **Disclaimer.** This is an unofficial SDK. The
 > protocol layer is reverse-engineered from publicly available work
 > ([mholow/gsp-r10-adapter](https://github.com/mholow/gsp-r10-adapter)).
